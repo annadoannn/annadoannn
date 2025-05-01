@@ -1,7 +1,4 @@
-- 👋 hey! i'm anna :)
-- 👀 i’m interested in music, poetry, cars, and legos. my hobbies include going to the gym, hanging out with my friends, and learning new things!
-- 🌱 i’m currently learning how to work github 💀 
-- 📫 feel free to reach out! 
+👋 Hey! I'm Anna and welcome to my repository! I'm majoring in Mathematics-Computer Science and minoring in Data Science at UC San Diego 👩‍🎓
 
 <!---
 annadoannn/annadoannn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
